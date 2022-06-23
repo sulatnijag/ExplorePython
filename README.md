@@ -1,2 +1,2 @@
-# PyExpore
-Python Exploration
+# Contents
+Jupyter - All data science stuff (e.g. Pandas, ggPlot,etc..) 
